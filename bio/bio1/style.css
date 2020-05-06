@@ -1,0 +1,51 @@
+header{
+    background-color:blue;
+    
+}
+h1{
+    color:red;
+    text-align:center;
+    font-size:50px;
+    margin:0;
+}
+
+    
+
+#b.paragrapgh{
+float:left;
+}
+#contact{
+    float:right;
+}
+.paragraph{
+    float: left;
+}
+h3{
+    font-size:25px ;
+}
+body{
+   margin:0 ;
+   padding:0;
+background-color: rgb(203, 216, 191);
+
+
+}
+a{
+    color:red;
+}
+#image{
+   margin-right:20px;
+   width: 200px;
+   height:200px ;
+
+}
+.bioimage{
+   float: left;
+}
+.container{
+width:60%;
+}
+#contact{
+width:40%;
+}
+h2{text-align: center;}
