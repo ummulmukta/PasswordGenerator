@@ -1,0 +1,1 @@
+A secured password will be cerated based on user input. User will be prompted to select the length of the password and all the criteria for characters must be accepted by the user,failing which the user will be promted again until accepted. Once he selections are made by the user in line with Acceptance Criteria, a secure randomly generated password will be displayed.
